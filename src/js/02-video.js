@@ -1,5 +1,6 @@
 import Player from '@vimeo/player';
 
+
 const iframe = document.querySelector('iframe');
 
 player.setCurrentTime(localStorage.getItem ('setCurrentTime(|)')|| 0 );
