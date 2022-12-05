@@ -11,6 +11,7 @@ function onPlay({ seconds }) {
   }
   
 player.setCurrentTime(localStorage.getItem ('videoplayer-current-time(|)')||0);
+
   /*import Player from '@vimeo/player';
   import throttle from 'lodash.throttle';
   
